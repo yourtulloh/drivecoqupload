@@ -12,12 +12,12 @@ class config:
 
 class BotCommands:
   Download = ['download', 'dl']
-  Authorize = ['auth', 'authorize']
+  Authorize = ['masuk','auth', 'authorize']
   SetFolder = ['setfolder', 'setfl']
-  Revoke = ['revoke']
-  Clone = ['copy', 'clone']
-  Delete = ['delete', 'del']
-  EmptyTrash = ['emptyTrash']
+  Revoke = ['keluar','revoke']
+  Clone = ['salin', 'copy', 'clone']
+  Delete = ['hps', 'del']
+  EmptyTrash = ['sampah', 'trash' ]
   YtDl = ['ytdl']
 
 class Messages:
